@@ -1,2 +1,5 @@
 def hello():
-    print("Hello human.")
+    print("I am speed.")
+    
+def bye():
+    print("Kerchow!")
